@@ -1,0 +1,2 @@
+rplidar_ros
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/qqq/ROS/jing/devel -DCMAKE_INSTALL_PREFIX=/home/qqq/ROS/jing/install -G Unix Makefiles
